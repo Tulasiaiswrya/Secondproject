@@ -1,0 +1,41 @@
+ <style>
+      body{
+       width: 100%;
+       max-width: 68rem;
+       margin: 0 auto;
+       font: 1.6rem/1.25 "Helvetica Neue", Helvetica, Arial, sans-serif;
+       background:rgba(142,73,232,0.5);
+       color: #4d4d4d;
+       -moz-osx-font-smoothing: grayscale;
+       -webkit-font-smoothing: antialiased;
+       font-size: 1rem;
+       line-height: 1.31579;
+
+      }
+      #app{
+        background: #fff;
+        margin: 1rem 0 4rem 0;
+        padding-top: 0;
+        position: relative;
+        box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2),0 2.5rem 5rem 0 rgba(0,0,0,0.1);
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 10px 0;
+        font-size: 1rem;
+        box-sizing: border-box;
+      }
+      #app h1{
+        display: block;
+
+        text-align: center;
+        margin: 0;
+        margin-bottom: 1rem;
+      }
+      .input{
+        padding:.5rem;
+        font-size: 16px;
+      }
+     
+
+    </style>
